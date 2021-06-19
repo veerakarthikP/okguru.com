@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: chocolate;
+    color: white;
+    font-style: oblique;
+    padding-top: 1%;
+   }
+ 
+   .row{
+   align-items: stretch;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   overflow-x: auto;
+   overflow-y: hidden;
+   padding-bottom: 5%;
+ }
